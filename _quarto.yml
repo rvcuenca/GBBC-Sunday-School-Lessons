@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: 'docs'
+
+website:
+  title: "GBBC Sunday School Lessons"
+  navbar:
+    logo: 'docs/profile.png'
+    right:
+      - about.qmd
+      - icon: facebook
+        text: Facebook
+        href: https://www.facebook.com/GBBCVillagers
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

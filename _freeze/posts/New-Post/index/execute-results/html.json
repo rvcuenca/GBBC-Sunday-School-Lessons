@@ -1,0 +1,15 @@
+{
+  "hash": "b1b62752075f8c86c7f36615161309d3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Ready to Give an Answer\"\nsubtitle: \"Part 1\"\nauthor: \"Bro. Rey R. Cuenca\"\ndate: \"2024-07-07\"\ncategories: [Diety of Christ,Common Questions]\nimage: \"be-ready.jpg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

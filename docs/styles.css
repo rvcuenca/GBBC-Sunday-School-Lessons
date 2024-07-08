@@ -1,0 +1,21 @@
+/* css styles */
+
+.blockquote {
+  color: black;
+  hanging-punctuation: first;
+  display: flex;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  /*font-family: Georgia,times new roman,Times,serif;*/
+  font-size: 14px;
+}
+
+.blockquote::before {
+  content: "\201c";
+  font-size: 60px;
+  color: #009578;
+  margin-bottom: -70px;
+  margin-top: -20px;
+  margin-right: 5px;
+  margin-left: -15px;
+  font-family: Georgia,times new roman,Times,serif;
+}

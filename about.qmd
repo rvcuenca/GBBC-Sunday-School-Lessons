@@ -1,0 +1,12 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/GBBCVillagers
+---
+
+This page serves as a repository of Sunday School lessons intended for the members and visitors of Greenville Bible Baptist Church.
