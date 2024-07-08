@@ -3,7 +3,7 @@ project:
   output-dir: 'docs'
 
 website:
-  title: "GBBC Sunday School Lessons"
+  title: "GBBC Sunday School"
   navbar:
     logo: 'docs/profile.png'
     right:
