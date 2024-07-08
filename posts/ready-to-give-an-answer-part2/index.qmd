@@ -149,7 +149,7 @@ Historical evidence, then, ***comes into precedence*** than theories crafted by 
 Consistency is always the best policy.
 :::
 
-Suppose we have a collection of claims (or statements) that shown to have consistent interpretations (i.e. without the presence of contradictions). If another statement can be interpreted by two but opposing claims, then we prefer to choose the more claim that is consistent with the existing collection.
+Suppose we have a collection of claims (or statements) that shown to have consistent interpretations (i.e. without the presence of contradictions). If another statement can be interpreted by two but opposing claims, then we prefer to choose the claim that is more consistent with the existing collection.
 
 For example, we have the following COLLECTION of statements:
 
