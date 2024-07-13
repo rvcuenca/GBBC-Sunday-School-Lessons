@@ -57,6 +57,17 @@ Examples:
 1.  The word "*Trinity"* can never be found word-for-word in the Bible but the concept of *Trinity* is explained in the Bible.
 2.  The word "*rapture"* is never mentioned word-for-word in the Bible but the concept of *rapture* is explained in the Bible.
 
+### The Law of Overextraploation
+
+::: {.callout-tip appearance="simple"}
+Do not make conclusions beyond what knowledge is available.
+:::
+
+Oftentimes the root of almost all misunderstanding between two parties proposing two conflicting claims is "over-assumption", i.e. one-side or both parties assumed beyond the available evidence or knowledge, and make extravagant conclusions beyond it. Consider the following:
+
+1.  Encountering your teenage young lady neighbor with tummy-size bigger than normal and conclude that she is pregnant.
+2.  A man questioned as suspect of thief but remained silent when asked if he is the one who really committed the crime. You then conclude that he is the thief because he did not deny it.
+
 ### The Law of Non-Contradiction
 
 ::: {.callout-tip appearance="simple"}
