@@ -13,6 +13,8 @@ website:
         href: https://www.facebook.com/GBBCVillagers
 format:
   html:
+    smooth-scroll: true
+    link-external-newwindow: true
     theme: cosmo
     css: styles.css
 
